@@ -1,0 +1,3 @@
+﻿  kr2.cpp
+c:\users\skylighting\source\repos\kr2\kr2\kr2.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kr2.vcxproj -> C:\Users\SkyLighting\source\repos\kr2\Debug\kr2.exe

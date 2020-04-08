@@ -1,0 +1,7 @@
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\bin\Debug\TestForms.exe.config
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\bin\Debug\TestForms.exe
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\bin\Debug\TestForms.pdb
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\obj\Debug\TestForms.csprojAssemblyReference.cache
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\obj\Debug\TestForms.csproj.CoreCompileInputs.cache
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\obj\Debug\TestForms.exe
+C:\Users\SkyLighting\source\repos\TestForms\TestForms\obj\Debug\TestForms.pdb

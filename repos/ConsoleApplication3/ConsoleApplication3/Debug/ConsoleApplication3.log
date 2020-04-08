@@ -1,0 +1,12 @@
+﻿  ConsoleApplication3.cpp
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): error C2065: LC_ALL: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(10): error C3861: setlocale: идентификатор не найден
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(12): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(13): error C2065: cin: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(15): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(16): error C2065: cin: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(19): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(22): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(25): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(30): error C2065: cout: необъявленный идентификатор
+c:\users\skylighting\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(36): error C2065: cout: необъявленный идентификатор

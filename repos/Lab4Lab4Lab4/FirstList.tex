@@ -1,0 +1,219 @@
+\documentclass{article}
+\usepackage{mathtools}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{mathtext}
+\usepackage[T1,T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{pscyr}
+%\usepackage[11pt]{extsizes}
+\usepackage{fancyhdr}
+%\setlength{\parskip}{1em}
+%\usepackage{setspace}
+%\linespread{1}
+\usepackage[a4paper, left=15mm, top=30mm, right=30mm, bottom=0mm, nofoot]{geometry}
+\newcommand{\RNumb}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+%\renewcommand{\headrulewidth}{2pt}
+\renewcommand\headrule{%
+	\begingroup
+	\vspace{1pt}
+	\hrule height 0.7pt width\headwidth
+	\vspace{2.5pt}
+	\hrule height 0.7pt width\headwidth
+	\endgroup
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{563}
+\lhead{4.292}
+\chead{Логарифмическая функция от более сложных аргументов и степенная функция}
+
+\begin{document}
+	\fontsize{10.25}{12}\selectfont
+	%\pagestyle{empty}
+	{\setlength{\baselineskip}{0.5em}
+	%\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+	%\hline
+	$\begin{aligned}
+			\hspace{-2mm} 25. \hspace{6mm} \int_0^1
+			\ln(1+x) 
+			\frac{1-x^2}{{\left( ax+b \right)}^2}
+			\frac{dx}{{\left( bx+a \right)}^2} = \: &
+			\frac{1}{a^2-b^2}
+			\Big\{ 
+				\frac{1}{a-b} 
+				\bigg[ 
+					\frac{a+b}{ab} 
+					\ln{ \big( a+b \big) } -
+					\frac{1}{a} \ln{b} -
+					\frac{1}{b} \ln{a}
+				\bigg] + \\
+				& \!\! + \frac{4\ln{2}}{b^2-a^2} 
+			\Big\} 
+	\end{aligned}$
+		
+	\vspace{-4mm}
+
+	\begin{flushright}
+		$\big[ a > 0, \hspace{3.5mm} b > 0, \hspace{3.5mm} a^2 \neq  \: b^2\big]
+			\hspace{5mm} Лн \; (114)(13)$
+	\end{flushright}
+	
+	$\begin{aligned}
+		\hspace{-2mm} 26. \hspace{6mm} \int_0^\infty
+		\ln(1+x) 
+		\frac{1-x^2}{{\left( ax+b \right)}^2} \cdot
+		\frac{dx}{{\left( bx+a \right)}^2} = \: &
+		\frac{1}{ab \left( a^2-b^2 \right)} \ln{\frac{b}{a}} \\
+	\end{aligned}$
+	
+	\begin{flushright}
+		$
+			\big[ a > 0, \hspace{3mm} b > 0\big]
+			\hspace{22.5mm} Лн \; (139)(14)
+		$
+	\end{flushright}
+
+	$\begin{aligned}
+			\hspace{-2mm} 27. \hspace{6mm} \int_0^1
+			\ln(1+ax) 
+			\frac{1-x^2}{{\left( 1+x^2 \right)}^2}
+			dx = \: &
+			\frac{1}{2} \frac{ \left( 1 + a \right) ^ 2 }{1+a^2}
+			\ln(1+a)
+			- \frac{1}{2} \cdot \frac{a}{1+a^2} \ln{2} - 
+			\frac{\pi}{4} \cdot \frac{a^2}{1+a^2}
+	\end{aligned}$
+
+	\begin{flushright}
+		$
+			\big[ a > -1 \big]
+			\hspace{32mm} Би \; (114)(23)
+		$
+	\end{flushright}
+
+
+	$\begin{aligned}
+			\hspace{-2mm} 28. \hspace{6mm} \int_0^\infty
+			\ln(a+x) 
+			\frac{b^2-x^2}{{\left( b^2 + x^2 \right)}^2}
+			dx = \: &
+			\frac{1}{a^2+b^2}
+			\left(
+				a\ln{\frac{b}{a}}-\frac{b\pi}{2} 
+			\right)
+	\end{aligned}$
+
+
+	\begin{flushright}
+		$
+			\big[ a > 0, \hspace{3mm} b > 0 \big]
+			\hspace{22mm} Би \; (139)(11)
+		$
+	\end{flushright}
+
+	
+	$\begin{aligned}
+			\hspace{-2mm} 29. \hspace{6mm} \int_0^\infty
+			\ln^2(a-x) 
+			\frac{b^2-x^2}{{\left( b^2 + x^2 \right)}^2}
+			dx = \: &
+			\frac{1}{a^2+b^2}
+			\left(
+				a\ln{\frac{a}{b}}-\frac{b\pi}{2} 
+			\right)
+	\end{aligned}$
+
+
+	\begin{flushright}
+		$
+			\big[ a > 0, \hspace{3mm} b > 0 \big]
+			\hspace{22mm} Би \; (139)(12)
+		$
+	\end{flushright}
+
+
+	$\begin{aligned}
+			\hspace{-2mm} 30. \hspace{6mm} \int_0^\infty
+			\ln^2(a-x) 
+			\frac{x\,dx}{{\left( b^2 + x^2 \right)}^2}
+			= \: &
+			\frac{1}{a^2+b^2}
+			\left(
+				\ln{b} - \frac{a\pi}{2b} + \frac{a^2}{b^2} \ln{a}
+			\right)
+	\end{aligned}$
+
+	\begin{flushright}
+		$
+			\big[ a > 0, \hspace{3mm} b > 0 \big]
+			\hspace{22mm} Би \; (139)(10)
+		$
+	\end{flushright}
+	
+	$\begin{aligned}
+	\textbf{6.542}
+	\end{aligned}$
+
+	$\begin{aligned}
+			\hspace{-2mm} 1. \hspace{6mm} \int_0^1
+			\frac{\ln(1 \pm x)}{\sqrt{ 1-x^2 }} \, dx = \:
+			- \frac{\pi}{2}\ln{2} \pm 2G
+			\hspace{81mm} ГХ2 (325)(20)
+	\end{aligned}$
+
+	$\begin{aligned}
+			\hspace{-2mm} 2. \hspace{6mm} \int_0^1
+			\frac{ x \ln(1 \pm x)}{\sqrt{ 1-x^2 }} \, dx = \:
+			- 1 \pm \frac{\pi}{2}
+			\hspace{86mm} ГХ2 (325)(22с)
+	\end{aligned}$
+
+	$\begin{aligned}
+			\hspace{-2mm} 3. \hspace{6mm} \int_{-a}^{a}
+			\frac{\ln(1 + bx)}{\sqrt{ a^2-x^2 }} \, dx = \:
+			\pi \ln{ \frac{ 1 + \sqrt{ 1-a^2b^2 } }{2} }
+			\hspace{25.5mm} \bigg[ 0 \leqslant |b| \leqslant \frac{1}{a} \bigg]
+	\end{aligned}$
+
+	\vspace{-3.5mm}
+
+	\begin{flushright}
+		$
+			Би \hspace{1mm} (145)(16, 17)и, \hspace{1mm} ГХ2 \hspace{1mm} (325)(21е)
+		$
+	\end{flushright}
+
+	$\begin{aligned}
+			\hspace{-2mm} 4. \hspace{6mm} \int_{0}^{1}
+			\frac{x\ln(1 + ax)}{\sqrt{ 1-x^2 }} \, dx & = \:
+			-1 + \frac{\pi}{2} \cdot \frac{ 1 - \sqrt{ 1-a^2 } }{a} + 
+			\frac{ \sqrt{ 1-a^2 } }{a} \arcsin{a} \hspace{4mm} \big[ |a| \leqslant 1 \big] \\
+			& = -1 + \frac{\pi}{2a} + \frac{\sqrt{ a^2 - 1 } }{a}
+			\ln{ \Big( a + \sqrt{ a^2 - 1 } \Big) } \hspace{10mm} \big[ a \geqslant 1 \big]
+	\end{aligned}$
+
+	\vspace{-3.5mm}
+
+	\begin{flushright}
+		$
+			ГХ2 (325)(22)
+		$
+	\end{flushright}
+
+	$\begin{aligned}
+			\hspace{-2mm} 5. \hspace{6mm} \int_{0}^{1}
+			\frac{\ln(1 + ax)}{x \sqrt{ 1-x^2 }} \, dx  = \:
+			\frac{1}{2} \arcsin{a} \left( \pi - \arcsin{a} \right) = \:
+			\frac{\pi^2}{8} - \frac{1}{2} ( \arccos{a} )^2 
+	\end{aligned}$
+
+	\begin{flushright}
+		$
+			\big[ |a| \leqslant 1 \big] \hspace{8mm}
+			Би \hspace{1mm} (120)(4), \hspace{1mm} ГХ2 \hspace{1mm} (325)(21а)
+		$
+	\end{flushright}
+
+\end{document}

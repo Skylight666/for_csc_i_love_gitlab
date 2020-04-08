@@ -1,0 +1,7 @@
+c:\users\skylighting\source\repos\oge\oge\bin\Debug\oge.exe.config
+c:\users\skylighting\source\repos\oge\oge\bin\Debug\oge.exe
+c:\users\skylighting\source\repos\oge\oge\bin\Debug\oge.pdb
+c:\users\skylighting\source\repos\oge\oge\obj\Debug\oge.csprojAssemblyReference.cache
+c:\users\skylighting\source\repos\oge\oge\obj\Debug\oge.csproj.CoreCompileInputs.cache
+c:\users\skylighting\source\repos\oge\oge\obj\Debug\oge.exe
+c:\users\skylighting\source\repos\oge\oge\obj\Debug\oge.pdb

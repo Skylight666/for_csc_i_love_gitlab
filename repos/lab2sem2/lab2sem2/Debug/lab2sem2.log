@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+c:\users\skylighting\desktop\lab2\lab2.h(77): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+c:\users\skylighting\desktop\lab2\lab2.h(77): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab2sem2.vcxproj -> C:\Users\SkyLighting\source\repos\lab2sem2\Debug\lab2sem2.exe

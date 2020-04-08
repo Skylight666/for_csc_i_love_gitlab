@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\skylighting\source\repos\project2\project2\source.cpp(10): error C3872: 0xbb: этот символ невозможно использовать в идентификаторе
+c:\users\skylighting\source\repos\project2\project2\source.cpp(10): error C2065: cin»a»b»d: необъявленный идентификатор
+c:\users\skylighting\source\repos\project2\project2\source.cpp(14): error C3872: 0xab: этот символ невозможно использовать в идентификаторе
+c:\users\skylighting\source\repos\project2\project2\source.cpp(14): error C3861: cout«: идентификатор не найден
+c:\users\skylighting\source\repos\project2\project2\source.cpp(14): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\skylighting\source\repos\project2\project2\source.cpp(14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«endl"
+c:\users\skylighting\source\repos\project2\project2\source.cpp(14): error C2065: «endl: необъявленный идентификатор
+c:\users\skylighting\source\repos\project2\project2\source.cpp(15): error C2181: недопустимый else без парного if
+c:\users\skylighting\source\repos\project2\project2\source.cpp(18): error C3872: 0xab: этот символ невозможно использовать в идентификаторе
+c:\users\skylighting\source\repos\project2\project2\source.cpp(18): error C3861: cout«: идентификатор не найден
+c:\users\skylighting\source\repos\project2\project2\source.cpp(18): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\skylighting\source\repos\project2\project2\source.cpp(18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«endl"
+c:\users\skylighting\source\repos\project2\project2\source.cpp(18): error C2065: «endl: необъявленный идентификатор
+c:\users\skylighting\source\repos\project2\project2\source.cpp(19): error C2181: недопустимый else без парного if
+c:\users\skylighting\source\repos\project2\project2\source.cpp(20): error C3872: 0xab: этот символ невозможно использовать в идентификаторе
+c:\users\skylighting\source\repos\project2\project2\source.cpp(20): error C2065: cout«b«endl: необъявленный идентификатор

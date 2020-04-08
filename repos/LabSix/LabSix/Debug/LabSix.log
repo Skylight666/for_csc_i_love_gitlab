@@ -1,0 +1,4 @@
+﻿  book.cpp
+c:\users\skylighting\desktop\lab_six\book.cpp(202): warning C4101: buffer: неиспользованная локальная переменная
+c:\users\skylighting\desktop\lab_six\book.cpp(215): warning C4101: ttt: неиспользованная локальная переменная
+  LabSix.vcxproj -> C:\Users\SkyLighting\source\repos\LabSix\Debug\LabSix.exe

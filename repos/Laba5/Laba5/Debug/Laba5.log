@@ -1,0 +1,8 @@
+﻿  Lab5.cpp
+c:\users\skylighting\desktop\lab3\lab5.cpp(176): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\skylighting\desktop\lab3\lab5.cpp(258): warning C4101: HarryPotter: неиспользованная локальная переменная
+  other.cpp
+c:\users\skylighting\desktop\lab3\other.cpp(164): warning C4477: "scanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "int"
+c:\users\skylighting\desktop\lab3\other.cpp(164): warning C4477: "scanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "int"
+  Создание кода...
+  Laba5.vcxproj -> C:\Users\SkyLighting\source\repos\Laba5\Debug\Laba5.exe

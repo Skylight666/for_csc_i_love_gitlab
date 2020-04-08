@@ -1,0 +1,15 @@
+﻿  ConsoleApplication6.cpp
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(73): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(99): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(197): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(212): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(225): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(240): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(256): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(261): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(305): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skylighting\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(336): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication6.vcxproj -> C:\Users\SkyLighting\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe

@@ -1,0 +1,3 @@
+﻿  main .cpp
+c:\users\skylighting\desktop\lab1oop\main .cpp(237): warning C4101: arRect: неиспользованная локальная переменная
+  lab1oop.vcxproj -> C:\Users\SkyLighting\source\repos\lab1oop\Debug\lab1oop.exe
